@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="c2_project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c2_project">
+				<Option output="/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/c2_project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 c2_project"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c2_project/fast">
+				<Option output="/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/c2_project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 c2_project/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Partition-qucksort.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution10-1.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution10-2.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution10-3.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution10.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution11.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution12.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution13.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution14.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution15.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution17.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution18.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution19.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution20.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution21.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution22.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution23.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution24.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution25.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution26.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution27.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution28.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution29.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution3.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution30.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution31.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution32.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution33.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution34.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution35.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution36.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution37.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution38.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution39.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution4.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution40.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution41.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution42.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution43.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution44.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution45.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution46.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution47.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution48.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution49.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution5.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution50-1.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution50-2.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution51.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution52.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution53-1.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution53-2.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution53-3.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution54.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution55-1.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution55-2.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution56-1.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution56-2.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution57-1.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution57-2.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution58-1.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution58-2.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution59-1.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution59-2.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution6.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution60.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution61.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution62.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution63.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution64.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution65.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution66.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution67.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution68.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution7.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution8.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution9.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/main.h">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/main.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/num2str.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/template.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

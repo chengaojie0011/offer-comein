@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-class Solution9_1:
+class Solution10_1:
     def Fibonacci(self, n):
         # write code here
         if n <= 0:
@@ -8,7 +8,7 @@ class Solution9_1:
             return 1
         return  self.Fibonacci(n-1) + self.Fibonacci(n-2)
 
-class Solution9_2:
+class Solution10_2:
     def Fibonacci(self, n):
         # write code here
         if n <= 0:
@@ -25,9 +25,9 @@ class Solution9_2:
             return  res
 
 if __name__ == "__main__":
-    solution1 = Solution9_1()
+    solution1 = Solution10_1()
     a = solution1.Fibonacci(10)
-    solution2 = Solution9_2()
+    solution2 = Solution10_2()
     b = solution2.Fibonacci(10)
     print(list(range(1,2)))
     print(a)

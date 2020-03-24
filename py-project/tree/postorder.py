@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-import tree_build as tree_con
+import tree.tree_build as tree_con
 
 """递归实现树的后序遍历"""
 def post_order(root,ret= []):

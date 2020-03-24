@@ -1,0 +1,3 @@
+/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/c2_project.dir
