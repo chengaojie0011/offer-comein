@@ -8,41 +8,41 @@
 #include <stack>
 using namespace std;
 
-class Solution {
+class Solution{
 private:
     int count = 0;
-    int findWay(int threshold, int rows, int cols,int i,int j,vector<vector<bool>> &waymap){
-        if(i<0 || i>=rows || j<0 || j>=cols){
-            return 0;
-        }
-        int sumij = getSum(i)+getSum(j);
-        if(sumij>threshold || waymap[i][j] == true){
-            return 0;
-        }
-        count +=1;
-        waymap[i][j] = true;
-        findWay(threshold,rows,cols,i+1,j,waymap);
-        findWay(threshold,rows,cols,i-1,j,waymap);
-        findWay(threshold,rows,cols,i,j+1,waymap);
-        findWay(threshold,rows,cols,i,j-1,waymap);
-        return 0;
+public:
+    int movingCount(int k,int rows,int cols){
+        bool* flags = new bool[rows*cols];
+        memset(flags,0,rows*cols);
+        movingCountCore(k,rows,cols,0,0,flags);
+        delete[] flags;
+        return count;
+    }
+    void movingCountCore(int k,int rows,int cols,int row, int col, bool* flags){
+        int idx = row*cols+col;
+        if(row<0||row>=rows||col<0||col>=cols||flags[idx]==1||check(row,col)>k)
+            return;
+        flags[idx]=1;
+        count++;
+        movingCountCore(k,rows,cols,row-1,col,flags);
+        movingCountCore(k,rows,cols,row+1,col,flags);
+        movingCountCore(k,rows,cols,row,col-1,flags);
+        movingCountCore(k,rows,cols,row,col+1,flags);
+        return;
     }
 
-    int getSum(int number){
+    int check(int row, int col){
         int sum = 0;
-        while (number>0){
-            sum = sum+number%10;
-            number = number/10;
+        while(row>0){
+            sum +=row%10;
+            row = row/10;
+        }
+        while(col>0){
+            sum +=col%10;
+            col = col/10;
         }
         return sum;
-    }
-
-public:
-    int movingCount(int threshold, int rows, int cols)
-    {
-        vector<vector<bool>> waymap(rows,vector<bool>(cols,false));
-        findWay(threshold,rows,cols,0,0,waymap);
-        return count;
     }
 };
 

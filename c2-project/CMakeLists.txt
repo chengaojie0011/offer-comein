@@ -17,7 +17,7 @@ add_executable(c2_project main.cpp
         Solution31.cpp Solution32.cpp Solution33.cpp
         Solution34.cpp Solution35.cpp template.cpp
         Solution36.cpp Solution37.cpp Solution38.cpp
-        Solution39.cpp Solution40.cpp Partition-qucksort.cpp
+        Solution39.cpp Solution40.cpp sort-Qucksort-Partition.cpp
         Solution41.cpp Solution42.cpp Solution43.cpp
         Solution44.cpp Solution45.cpp num2str.cpp
         Solution6.cpp Solution46.cpp Solution47.cpp
@@ -30,4 +30,4 @@ add_executable(c2_project main.cpp
         Solution59-1.cpp Solution59-2.cpp Solution60.cpp
         Solution61.cpp Solution62.cpp Solution63.cpp
         Solution64.cpp Solution65.cpp Solution66.cpp
-        Solution67.cpp Solution68.cpp Solution10-1.cpp Solution10-2.cpp Solution10-3.cpp cmake-build-debug/main.h)
+        Solution67.cpp Solution68.cpp Solution10-1.cpp Solution10-2.cpp Solution10-3.cpp cmake-build-debug/main.h main2.cpp sort-Bubblesort.cpp sort-InsertSort.cpp sort-Mergesort.cpp sort-Heapsort.cpp sort-Shellsort.cpp Z-Treeorder.cpp InputOutput.cpp)

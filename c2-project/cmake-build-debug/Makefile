@@ -123,32 +123,32 @@ c2_project/fast:
 	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/build
 .PHONY : c2_project/fast
 
-Partition-qucksort.o: Partition-qucksort.cpp.o
+InputOutput.o: InputOutput.cpp.o
 
-.PHONY : Partition-qucksort.o
+.PHONY : InputOutput.o
 
 # target to build an object file
-Partition-qucksort.cpp.o:
-	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/Partition-qucksort.cpp.o
-.PHONY : Partition-qucksort.cpp.o
+InputOutput.cpp.o:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/InputOutput.cpp.o
+.PHONY : InputOutput.cpp.o
 
-Partition-qucksort.i: Partition-qucksort.cpp.i
+InputOutput.i: InputOutput.cpp.i
 
-.PHONY : Partition-qucksort.i
+.PHONY : InputOutput.i
 
 # target to preprocess a source file
-Partition-qucksort.cpp.i:
-	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/Partition-qucksort.cpp.i
-.PHONY : Partition-qucksort.cpp.i
+InputOutput.cpp.i:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/InputOutput.cpp.i
+.PHONY : InputOutput.cpp.i
 
-Partition-qucksort.s: Partition-qucksort.cpp.s
+InputOutput.s: InputOutput.cpp.s
 
-.PHONY : Partition-qucksort.s
+.PHONY : InputOutput.s
 
 # target to generate assembly for a file
-Partition-qucksort.cpp.s:
-	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/Partition-qucksort.cpp.s
-.PHONY : Partition-qucksort.cpp.s
+InputOutput.cpp.s:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/InputOutput.cpp.s
+.PHONY : InputOutput.cpp.s
 
 Solution10-1.o: Solution10-1.cpp.o
 
@@ -2202,6 +2202,33 @@ Solution9.cpp.s:
 	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/Solution9.cpp.s
 .PHONY : Solution9.cpp.s
 
+Z-Treeorder.o: Z-Treeorder.cpp.o
+
+.PHONY : Z-Treeorder.o
+
+# target to build an object file
+Z-Treeorder.cpp.o:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/Z-Treeorder.cpp.o
+.PHONY : Z-Treeorder.cpp.o
+
+Z-Treeorder.i: Z-Treeorder.cpp.i
+
+.PHONY : Z-Treeorder.i
+
+# target to preprocess a source file
+Z-Treeorder.cpp.i:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/Z-Treeorder.cpp.i
+.PHONY : Z-Treeorder.cpp.i
+
+Z-Treeorder.s: Z-Treeorder.cpp.s
+
+.PHONY : Z-Treeorder.s
+
+# target to generate assembly for a file
+Z-Treeorder.cpp.s:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/Z-Treeorder.cpp.s
+.PHONY : Z-Treeorder.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -2229,6 +2256,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+main2.o: main2.cpp.o
+
+.PHONY : main2.o
+
+# target to build an object file
+main2.cpp.o:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/main2.cpp.o
+.PHONY : main2.cpp.o
+
+main2.i: main2.cpp.i
+
+.PHONY : main2.i
+
+# target to preprocess a source file
+main2.cpp.i:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/main2.cpp.i
+.PHONY : main2.cpp.i
+
+main2.s: main2.cpp.s
+
+.PHONY : main2.s
+
+# target to generate assembly for a file
+main2.cpp.s:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/main2.cpp.s
+.PHONY : main2.cpp.s
+
 num2str.o: num2str.cpp.o
 
 .PHONY : num2str.o
@@ -2255,6 +2309,168 @@ num2str.s: num2str.cpp.s
 num2str.cpp.s:
 	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/num2str.cpp.s
 .PHONY : num2str.cpp.s
+
+sort-Bubblesort.o: sort-Bubblesort.cpp.o
+
+.PHONY : sort-Bubblesort.o
+
+# target to build an object file
+sort-Bubblesort.cpp.o:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/sort-Bubblesort.cpp.o
+.PHONY : sort-Bubblesort.cpp.o
+
+sort-Bubblesort.i: sort-Bubblesort.cpp.i
+
+.PHONY : sort-Bubblesort.i
+
+# target to preprocess a source file
+sort-Bubblesort.cpp.i:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/sort-Bubblesort.cpp.i
+.PHONY : sort-Bubblesort.cpp.i
+
+sort-Bubblesort.s: sort-Bubblesort.cpp.s
+
+.PHONY : sort-Bubblesort.s
+
+# target to generate assembly for a file
+sort-Bubblesort.cpp.s:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/sort-Bubblesort.cpp.s
+.PHONY : sort-Bubblesort.cpp.s
+
+sort-Heapsort.o: sort-Heapsort.cpp.o
+
+.PHONY : sort-Heapsort.o
+
+# target to build an object file
+sort-Heapsort.cpp.o:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/sort-Heapsort.cpp.o
+.PHONY : sort-Heapsort.cpp.o
+
+sort-Heapsort.i: sort-Heapsort.cpp.i
+
+.PHONY : sort-Heapsort.i
+
+# target to preprocess a source file
+sort-Heapsort.cpp.i:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/sort-Heapsort.cpp.i
+.PHONY : sort-Heapsort.cpp.i
+
+sort-Heapsort.s: sort-Heapsort.cpp.s
+
+.PHONY : sort-Heapsort.s
+
+# target to generate assembly for a file
+sort-Heapsort.cpp.s:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/sort-Heapsort.cpp.s
+.PHONY : sort-Heapsort.cpp.s
+
+sort-InsertSort.o: sort-InsertSort.cpp.o
+
+.PHONY : sort-InsertSort.o
+
+# target to build an object file
+sort-InsertSort.cpp.o:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/sort-InsertSort.cpp.o
+.PHONY : sort-InsertSort.cpp.o
+
+sort-InsertSort.i: sort-InsertSort.cpp.i
+
+.PHONY : sort-InsertSort.i
+
+# target to preprocess a source file
+sort-InsertSort.cpp.i:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/sort-InsertSort.cpp.i
+.PHONY : sort-InsertSort.cpp.i
+
+sort-InsertSort.s: sort-InsertSort.cpp.s
+
+.PHONY : sort-InsertSort.s
+
+# target to generate assembly for a file
+sort-InsertSort.cpp.s:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/sort-InsertSort.cpp.s
+.PHONY : sort-InsertSort.cpp.s
+
+sort-Mergesort.o: sort-Mergesort.cpp.o
+
+.PHONY : sort-Mergesort.o
+
+# target to build an object file
+sort-Mergesort.cpp.o:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/sort-Mergesort.cpp.o
+.PHONY : sort-Mergesort.cpp.o
+
+sort-Mergesort.i: sort-Mergesort.cpp.i
+
+.PHONY : sort-Mergesort.i
+
+# target to preprocess a source file
+sort-Mergesort.cpp.i:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/sort-Mergesort.cpp.i
+.PHONY : sort-Mergesort.cpp.i
+
+sort-Mergesort.s: sort-Mergesort.cpp.s
+
+.PHONY : sort-Mergesort.s
+
+# target to generate assembly for a file
+sort-Mergesort.cpp.s:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/sort-Mergesort.cpp.s
+.PHONY : sort-Mergesort.cpp.s
+
+sort-Qucksort-Partition.o: sort-Qucksort-Partition.cpp.o
+
+.PHONY : sort-Qucksort-Partition.o
+
+# target to build an object file
+sort-Qucksort-Partition.cpp.o:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/sort-Qucksort-Partition.cpp.o
+.PHONY : sort-Qucksort-Partition.cpp.o
+
+sort-Qucksort-Partition.i: sort-Qucksort-Partition.cpp.i
+
+.PHONY : sort-Qucksort-Partition.i
+
+# target to preprocess a source file
+sort-Qucksort-Partition.cpp.i:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/sort-Qucksort-Partition.cpp.i
+.PHONY : sort-Qucksort-Partition.cpp.i
+
+sort-Qucksort-Partition.s: sort-Qucksort-Partition.cpp.s
+
+.PHONY : sort-Qucksort-Partition.s
+
+# target to generate assembly for a file
+sort-Qucksort-Partition.cpp.s:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/sort-Qucksort-Partition.cpp.s
+.PHONY : sort-Qucksort-Partition.cpp.s
+
+sort-Shellsort.o: sort-Shellsort.cpp.o
+
+.PHONY : sort-Shellsort.o
+
+# target to build an object file
+sort-Shellsort.cpp.o:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/sort-Shellsort.cpp.o
+.PHONY : sort-Shellsort.cpp.o
+
+sort-Shellsort.i: sort-Shellsort.cpp.i
+
+.PHONY : sort-Shellsort.i
+
+# target to preprocess a source file
+sort-Shellsort.cpp.i:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/sort-Shellsort.cpp.i
+.PHONY : sort-Shellsort.cpp.i
+
+sort-Shellsort.s: sort-Shellsort.cpp.s
+
+.PHONY : sort-Shellsort.s
+
+# target to generate assembly for a file
+sort-Shellsort.cpp.s:
+	$(MAKE) -f CMakeFiles/c2_project.dir/build.make CMakeFiles/c2_project.dir/sort-Shellsort.cpp.s
+.PHONY : sort-Shellsort.cpp.s
 
 template.o: template.cpp.o
 
@@ -2292,9 +2508,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... c2_project"
-	@echo "... Partition-qucksort.o"
-	@echo "... Partition-qucksort.i"
-	@echo "... Partition-qucksort.s"
+	@echo "... InputOutput.o"
+	@echo "... InputOutput.i"
+	@echo "... InputOutput.s"
 	@echo "... Solution10-1.o"
 	@echo "... Solution10-1.i"
 	@echo "... Solution10-1.s"
@@ -2523,12 +2739,36 @@ help:
 	@echo "... Solution9.o"
 	@echo "... Solution9.i"
 	@echo "... Solution9.s"
+	@echo "... Z-Treeorder.o"
+	@echo "... Z-Treeorder.i"
+	@echo "... Z-Treeorder.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... main2.o"
+	@echo "... main2.i"
+	@echo "... main2.s"
 	@echo "... num2str.o"
 	@echo "... num2str.i"
 	@echo "... num2str.s"
+	@echo "... sort-Bubblesort.o"
+	@echo "... sort-Bubblesort.i"
+	@echo "... sort-Bubblesort.s"
+	@echo "... sort-Heapsort.o"
+	@echo "... sort-Heapsort.i"
+	@echo "... sort-Heapsort.s"
+	@echo "... sort-InsertSort.o"
+	@echo "... sort-InsertSort.i"
+	@echo "... sort-InsertSort.s"
+	@echo "... sort-Mergesort.o"
+	@echo "... sort-Mergesort.i"
+	@echo "... sort-Mergesort.s"
+	@echo "... sort-Qucksort-Partition.o"
+	@echo "... sort-Qucksort-Partition.i"
+	@echo "... sort-Qucksort-Partition.s"
+	@echo "... sort-Shellsort.o"
+	@echo "... sort-Shellsort.i"
+	@echo "... sort-Shellsort.s"
 	@echo "... template.o"
 	@echo "... template.i"
 	@echo "... template.s"

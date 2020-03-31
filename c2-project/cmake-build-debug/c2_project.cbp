@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Partition-qucksort.cpp">
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/InputOutput.cpp">
 			<Option target="c2_project"/>
 		</Unit>
 		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution10-1.cpp">
@@ -311,13 +311,37 @@
 		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Solution9.cpp">
 			<Option target="c2_project"/>
 		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/Z-Treeorder.cpp">
+			<Option target="c2_project"/>
+		</Unit>
 		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/main.h">
 			<Option target="c2_project"/>
 		</Unit>
 		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/main.cpp">
 			<Option target="c2_project"/>
 		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/main2.cpp">
+			<Option target="c2_project"/>
+		</Unit>
 		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/num2str.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/sort-Bubblesort.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/sort-Heapsort.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/sort-InsertSort.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/sort-Mergesort.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/sort-Qucksort-Partition.cpp">
+			<Option target="c2_project"/>
+		</Unit>
+		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/sort-Shellsort.cpp">
 			<Option target="c2_project"/>
 		</Unit>
 		<Unit filename="/Users/gavin/Desktop/offer-comein/c2-project/template.cpp">

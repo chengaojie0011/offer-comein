@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/gavin/Desktop/offer-comein/c2-project/Partition-qucksort.cpp" "/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/c2_project.dir/Partition-qucksort.cpp.o"
+  "/Users/gavin/Desktop/offer-comein/c2-project/InputOutput.cpp" "/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/c2_project.dir/InputOutput.cpp.o"
   "/Users/gavin/Desktop/offer-comein/c2-project/Solution10-1.cpp" "/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/c2_project.dir/Solution10-1.cpp.o"
   "/Users/gavin/Desktop/offer-comein/c2-project/Solution10-2.cpp" "/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/c2_project.dir/Solution10-2.cpp.o"
   "/Users/gavin/Desktop/offer-comein/c2-project/Solution10-3.cpp" "/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/c2_project.dir/Solution10-3.cpp.o"
@@ -81,8 +81,16 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/gavin/Desktop/offer-comein/c2-project/Solution7.cpp" "/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/c2_project.dir/Solution7.cpp.o"
   "/Users/gavin/Desktop/offer-comein/c2-project/Solution8.cpp" "/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/c2_project.dir/Solution8.cpp.o"
   "/Users/gavin/Desktop/offer-comein/c2-project/Solution9.cpp" "/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/c2_project.dir/Solution9.cpp.o"
+  "/Users/gavin/Desktop/offer-comein/c2-project/Z-Treeorder.cpp" "/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/c2_project.dir/Z-Treeorder.cpp.o"
   "/Users/gavin/Desktop/offer-comein/c2-project/main.cpp" "/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/c2_project.dir/main.cpp.o"
+  "/Users/gavin/Desktop/offer-comein/c2-project/main2.cpp" "/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/c2_project.dir/main2.cpp.o"
   "/Users/gavin/Desktop/offer-comein/c2-project/num2str.cpp" "/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/c2_project.dir/num2str.cpp.o"
+  "/Users/gavin/Desktop/offer-comein/c2-project/sort-Bubblesort.cpp" "/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/c2_project.dir/sort-Bubblesort.cpp.o"
+  "/Users/gavin/Desktop/offer-comein/c2-project/sort-Heapsort.cpp" "/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/c2_project.dir/sort-Heapsort.cpp.o"
+  "/Users/gavin/Desktop/offer-comein/c2-project/sort-InsertSort.cpp" "/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/c2_project.dir/sort-InsertSort.cpp.o"
+  "/Users/gavin/Desktop/offer-comein/c2-project/sort-Mergesort.cpp" "/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/c2_project.dir/sort-Mergesort.cpp.o"
+  "/Users/gavin/Desktop/offer-comein/c2-project/sort-Qucksort-Partition.cpp" "/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/c2_project.dir/sort-Qucksort-Partition.cpp.o"
+  "/Users/gavin/Desktop/offer-comein/c2-project/sort-Shellsort.cpp" "/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/c2_project.dir/sort-Shellsort.cpp.o"
   "/Users/gavin/Desktop/offer-comein/c2-project/template.cpp" "/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles/c2_project.dir/template.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

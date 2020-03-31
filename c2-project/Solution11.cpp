@@ -9,6 +9,28 @@
 #include <stack>
 using namespace std;
 
+class Solution1{
+public:
+    int minNumberInRotateArray(vector<int> rotateArray){
+        int length = rotateArray.size();
+        int low = 0;
+        int high = length-1;
+        while(low<high){
+            int mid = (low+high)/2;
+            if(rotateArray[mid]>rotateArray[high]){
+                low = mid+1;
+            }
+            else if(rotateArray[mid]<rotateArray[high]){
+                high = mid;
+            }
+            else{
+                high--;
+            }
+        }
+        return rotateArray[low];
+    }
+};
+
 class Solution {
 private:
     int minInOrder(vector<int> rotateArray,int left,int right) {

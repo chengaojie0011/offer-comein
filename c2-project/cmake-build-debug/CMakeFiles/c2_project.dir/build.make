@@ -564,18 +564,18 @@ CMakeFiles/c2_project.dir/Solution40.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c2_project.dir/Solution40.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gavin/Desktop/offer-comein/c2-project/Solution40.cpp -o CMakeFiles/c2_project.dir/Solution40.cpp.s
 
-CMakeFiles/c2_project.dir/Partition-qucksort.cpp.o: CMakeFiles/c2_project.dir/flags.make
-CMakeFiles/c2_project.dir/Partition-qucksort.cpp.o: ../Partition-qucksort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/c2_project.dir/Partition-qucksort.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c2_project.dir/Partition-qucksort.cpp.o -c /Users/gavin/Desktop/offer-comein/c2-project/Partition-qucksort.cpp
+CMakeFiles/c2_project.dir/sort-Qucksort-Partition.cpp.o: CMakeFiles/c2_project.dir/flags.make
+CMakeFiles/c2_project.dir/sort-Qucksort-Partition.cpp.o: ../sort-Qucksort-Partition.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/c2_project.dir/sort-Qucksort-Partition.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c2_project.dir/sort-Qucksort-Partition.cpp.o -c /Users/gavin/Desktop/offer-comein/c2-project/sort-Qucksort-Partition.cpp
 
-CMakeFiles/c2_project.dir/Partition-qucksort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c2_project.dir/Partition-qucksort.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gavin/Desktop/offer-comein/c2-project/Partition-qucksort.cpp > CMakeFiles/c2_project.dir/Partition-qucksort.cpp.i
+CMakeFiles/c2_project.dir/sort-Qucksort-Partition.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c2_project.dir/sort-Qucksort-Partition.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gavin/Desktop/offer-comein/c2-project/sort-Qucksort-Partition.cpp > CMakeFiles/c2_project.dir/sort-Qucksort-Partition.cpp.i
 
-CMakeFiles/c2_project.dir/Partition-qucksort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c2_project.dir/Partition-qucksort.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gavin/Desktop/offer-comein/c2-project/Partition-qucksort.cpp -o CMakeFiles/c2_project.dir/Partition-qucksort.cpp.s
+CMakeFiles/c2_project.dir/sort-Qucksort-Partition.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c2_project.dir/sort-Qucksort-Partition.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gavin/Desktop/offer-comein/c2-project/sort-Qucksort-Partition.cpp -o CMakeFiles/c2_project.dir/sort-Qucksort-Partition.cpp.s
 
 CMakeFiles/c2_project.dir/Solution41.cpp.o: CMakeFiles/c2_project.dir/flags.make
 CMakeFiles/c2_project.dir/Solution41.cpp.o: ../Solution41.cpp
@@ -1097,6 +1097,110 @@ CMakeFiles/c2_project.dir/Solution10-3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c2_project.dir/Solution10-3.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gavin/Desktop/offer-comein/c2-project/Solution10-3.cpp -o CMakeFiles/c2_project.dir/Solution10-3.cpp.s
 
+CMakeFiles/c2_project.dir/main2.cpp.o: CMakeFiles/c2_project.dir/flags.make
+CMakeFiles/c2_project.dir/main2.cpp.o: ../main2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/c2_project.dir/main2.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c2_project.dir/main2.cpp.o -c /Users/gavin/Desktop/offer-comein/c2-project/main2.cpp
+
+CMakeFiles/c2_project.dir/main2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c2_project.dir/main2.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gavin/Desktop/offer-comein/c2-project/main2.cpp > CMakeFiles/c2_project.dir/main2.cpp.i
+
+CMakeFiles/c2_project.dir/main2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c2_project.dir/main2.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gavin/Desktop/offer-comein/c2-project/main2.cpp -o CMakeFiles/c2_project.dir/main2.cpp.s
+
+CMakeFiles/c2_project.dir/sort-Bubblesort.cpp.o: CMakeFiles/c2_project.dir/flags.make
+CMakeFiles/c2_project.dir/sort-Bubblesort.cpp.o: ../sort-Bubblesort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/c2_project.dir/sort-Bubblesort.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c2_project.dir/sort-Bubblesort.cpp.o -c /Users/gavin/Desktop/offer-comein/c2-project/sort-Bubblesort.cpp
+
+CMakeFiles/c2_project.dir/sort-Bubblesort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c2_project.dir/sort-Bubblesort.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gavin/Desktop/offer-comein/c2-project/sort-Bubblesort.cpp > CMakeFiles/c2_project.dir/sort-Bubblesort.cpp.i
+
+CMakeFiles/c2_project.dir/sort-Bubblesort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c2_project.dir/sort-Bubblesort.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gavin/Desktop/offer-comein/c2-project/sort-Bubblesort.cpp -o CMakeFiles/c2_project.dir/sort-Bubblesort.cpp.s
+
+CMakeFiles/c2_project.dir/sort-InsertSort.cpp.o: CMakeFiles/c2_project.dir/flags.make
+CMakeFiles/c2_project.dir/sort-InsertSort.cpp.o: ../sort-InsertSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building CXX object CMakeFiles/c2_project.dir/sort-InsertSort.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c2_project.dir/sort-InsertSort.cpp.o -c /Users/gavin/Desktop/offer-comein/c2-project/sort-InsertSort.cpp
+
+CMakeFiles/c2_project.dir/sort-InsertSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c2_project.dir/sort-InsertSort.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gavin/Desktop/offer-comein/c2-project/sort-InsertSort.cpp > CMakeFiles/c2_project.dir/sort-InsertSort.cpp.i
+
+CMakeFiles/c2_project.dir/sort-InsertSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c2_project.dir/sort-InsertSort.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gavin/Desktop/offer-comein/c2-project/sort-InsertSort.cpp -o CMakeFiles/c2_project.dir/sort-InsertSort.cpp.s
+
+CMakeFiles/c2_project.dir/sort-Mergesort.cpp.o: CMakeFiles/c2_project.dir/flags.make
+CMakeFiles/c2_project.dir/sort-Mergesort.cpp.o: ../sort-Mergesort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building CXX object CMakeFiles/c2_project.dir/sort-Mergesort.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c2_project.dir/sort-Mergesort.cpp.o -c /Users/gavin/Desktop/offer-comein/c2-project/sort-Mergesort.cpp
+
+CMakeFiles/c2_project.dir/sort-Mergesort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c2_project.dir/sort-Mergesort.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gavin/Desktop/offer-comein/c2-project/sort-Mergesort.cpp > CMakeFiles/c2_project.dir/sort-Mergesort.cpp.i
+
+CMakeFiles/c2_project.dir/sort-Mergesort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c2_project.dir/sort-Mergesort.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gavin/Desktop/offer-comein/c2-project/sort-Mergesort.cpp -o CMakeFiles/c2_project.dir/sort-Mergesort.cpp.s
+
+CMakeFiles/c2_project.dir/sort-Heapsort.cpp.o: CMakeFiles/c2_project.dir/flags.make
+CMakeFiles/c2_project.dir/sort-Heapsort.cpp.o: ../sort-Heapsort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building CXX object CMakeFiles/c2_project.dir/sort-Heapsort.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c2_project.dir/sort-Heapsort.cpp.o -c /Users/gavin/Desktop/offer-comein/c2-project/sort-Heapsort.cpp
+
+CMakeFiles/c2_project.dir/sort-Heapsort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c2_project.dir/sort-Heapsort.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gavin/Desktop/offer-comein/c2-project/sort-Heapsort.cpp > CMakeFiles/c2_project.dir/sort-Heapsort.cpp.i
+
+CMakeFiles/c2_project.dir/sort-Heapsort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c2_project.dir/sort-Heapsort.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gavin/Desktop/offer-comein/c2-project/sort-Heapsort.cpp -o CMakeFiles/c2_project.dir/sort-Heapsort.cpp.s
+
+CMakeFiles/c2_project.dir/sort-Shellsort.cpp.o: CMakeFiles/c2_project.dir/flags.make
+CMakeFiles/c2_project.dir/sort-Shellsort.cpp.o: ../sort-Shellsort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building CXX object CMakeFiles/c2_project.dir/sort-Shellsort.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c2_project.dir/sort-Shellsort.cpp.o -c /Users/gavin/Desktop/offer-comein/c2-project/sort-Shellsort.cpp
+
+CMakeFiles/c2_project.dir/sort-Shellsort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c2_project.dir/sort-Shellsort.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gavin/Desktop/offer-comein/c2-project/sort-Shellsort.cpp > CMakeFiles/c2_project.dir/sort-Shellsort.cpp.i
+
+CMakeFiles/c2_project.dir/sort-Shellsort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c2_project.dir/sort-Shellsort.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gavin/Desktop/offer-comein/c2-project/sort-Shellsort.cpp -o CMakeFiles/c2_project.dir/sort-Shellsort.cpp.s
+
+CMakeFiles/c2_project.dir/Z-Treeorder.cpp.o: CMakeFiles/c2_project.dir/flags.make
+CMakeFiles/c2_project.dir/Z-Treeorder.cpp.o: ../Z-Treeorder.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building CXX object CMakeFiles/c2_project.dir/Z-Treeorder.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c2_project.dir/Z-Treeorder.cpp.o -c /Users/gavin/Desktop/offer-comein/c2-project/Z-Treeorder.cpp
+
+CMakeFiles/c2_project.dir/Z-Treeorder.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c2_project.dir/Z-Treeorder.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gavin/Desktop/offer-comein/c2-project/Z-Treeorder.cpp > CMakeFiles/c2_project.dir/Z-Treeorder.cpp.i
+
+CMakeFiles/c2_project.dir/Z-Treeorder.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c2_project.dir/Z-Treeorder.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gavin/Desktop/offer-comein/c2-project/Z-Treeorder.cpp -o CMakeFiles/c2_project.dir/Z-Treeorder.cpp.s
+
+CMakeFiles/c2_project.dir/InputOutput.cpp.o: CMakeFiles/c2_project.dir/flags.make
+CMakeFiles/c2_project.dir/InputOutput.cpp.o: ../InputOutput.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building CXX object CMakeFiles/c2_project.dir/InputOutput.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c2_project.dir/InputOutput.cpp.o -c /Users/gavin/Desktop/offer-comein/c2-project/InputOutput.cpp
+
+CMakeFiles/c2_project.dir/InputOutput.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c2_project.dir/InputOutput.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gavin/Desktop/offer-comein/c2-project/InputOutput.cpp > CMakeFiles/c2_project.dir/InputOutput.cpp.i
+
+CMakeFiles/c2_project.dir/InputOutput.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c2_project.dir/InputOutput.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gavin/Desktop/offer-comein/c2-project/InputOutput.cpp -o CMakeFiles/c2_project.dir/InputOutput.cpp.s
+
 # Object files for target c2_project
 c2_project_OBJECTS = \
 "CMakeFiles/c2_project.dir/main.cpp.o" \
@@ -1138,7 +1242,7 @@ c2_project_OBJECTS = \
 "CMakeFiles/c2_project.dir/Solution38.cpp.o" \
 "CMakeFiles/c2_project.dir/Solution39.cpp.o" \
 "CMakeFiles/c2_project.dir/Solution40.cpp.o" \
-"CMakeFiles/c2_project.dir/Partition-qucksort.cpp.o" \
+"CMakeFiles/c2_project.dir/sort-Qucksort-Partition.cpp.o" \
 "CMakeFiles/c2_project.dir/Solution41.cpp.o" \
 "CMakeFiles/c2_project.dir/Solution42.cpp.o" \
 "CMakeFiles/c2_project.dir/Solution43.cpp.o" \
@@ -1178,7 +1282,15 @@ c2_project_OBJECTS = \
 "CMakeFiles/c2_project.dir/Solution68.cpp.o" \
 "CMakeFiles/c2_project.dir/Solution10-1.cpp.o" \
 "CMakeFiles/c2_project.dir/Solution10-2.cpp.o" \
-"CMakeFiles/c2_project.dir/Solution10-3.cpp.o"
+"CMakeFiles/c2_project.dir/Solution10-3.cpp.o" \
+"CMakeFiles/c2_project.dir/main2.cpp.o" \
+"CMakeFiles/c2_project.dir/sort-Bubblesort.cpp.o" \
+"CMakeFiles/c2_project.dir/sort-InsertSort.cpp.o" \
+"CMakeFiles/c2_project.dir/sort-Mergesort.cpp.o" \
+"CMakeFiles/c2_project.dir/sort-Heapsort.cpp.o" \
+"CMakeFiles/c2_project.dir/sort-Shellsort.cpp.o" \
+"CMakeFiles/c2_project.dir/Z-Treeorder.cpp.o" \
+"CMakeFiles/c2_project.dir/InputOutput.cpp.o"
 
 # External object files for target c2_project
 c2_project_EXTERNAL_OBJECTS =
@@ -1222,7 +1334,7 @@ c2_project: CMakeFiles/c2_project.dir/Solution37.cpp.o
 c2_project: CMakeFiles/c2_project.dir/Solution38.cpp.o
 c2_project: CMakeFiles/c2_project.dir/Solution39.cpp.o
 c2_project: CMakeFiles/c2_project.dir/Solution40.cpp.o
-c2_project: CMakeFiles/c2_project.dir/Partition-qucksort.cpp.o
+c2_project: CMakeFiles/c2_project.dir/sort-Qucksort-Partition.cpp.o
 c2_project: CMakeFiles/c2_project.dir/Solution41.cpp.o
 c2_project: CMakeFiles/c2_project.dir/Solution42.cpp.o
 c2_project: CMakeFiles/c2_project.dir/Solution43.cpp.o
@@ -1263,9 +1375,17 @@ c2_project: CMakeFiles/c2_project.dir/Solution68.cpp.o
 c2_project: CMakeFiles/c2_project.dir/Solution10-1.cpp.o
 c2_project: CMakeFiles/c2_project.dir/Solution10-2.cpp.o
 c2_project: CMakeFiles/c2_project.dir/Solution10-3.cpp.o
+c2_project: CMakeFiles/c2_project.dir/main2.cpp.o
+c2_project: CMakeFiles/c2_project.dir/sort-Bubblesort.cpp.o
+c2_project: CMakeFiles/c2_project.dir/sort-InsertSort.cpp.o
+c2_project: CMakeFiles/c2_project.dir/sort-Mergesort.cpp.o
+c2_project: CMakeFiles/c2_project.dir/sort-Heapsort.cpp.o
+c2_project: CMakeFiles/c2_project.dir/sort-Shellsort.cpp.o
+c2_project: CMakeFiles/c2_project.dir/Z-Treeorder.cpp.o
+c2_project: CMakeFiles/c2_project.dir/InputOutput.cpp.o
 c2_project: CMakeFiles/c2_project.dir/build.make
 c2_project: CMakeFiles/c2_project.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Linking CXX executable c2_project"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/gavin/Desktop/offer-comein/c2-project/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Linking CXX executable c2_project"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/c2_project.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
